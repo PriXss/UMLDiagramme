@@ -1,50 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T16:13:39.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="Lj5LouEC2y2MueP_gL7N" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T16:29:00.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="aUQXd29AlLAEZR78UEAn" version="20.7.4" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1639" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r8EusleEMPzekrwfMVhx-1" value="Firebase Databases" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1000" width="990" height="130" as="geometry" />
+          <mxGeometry x="48" y="300" width="990" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-3" value="users" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1040" width="110" height="80" as="geometry" />
+          <mxGeometry x="188" y="340" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-4" value="washers" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1040" width="110" height="80" as="geometry" />
+          <mxGeometry x="308" y="340" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-5" value="dryers" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1040" width="110" height="80" as="geometry" />
+          <mxGeometry x="428" y="340" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-6" value="blockers" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1040" width="110" height="80" as="geometry" />
+          <mxGeometry x="548" y="340" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-7" value="washerBookable" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1040" width="110" height="80" as="geometry" />
+          <mxGeometry x="668" y="340" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-8" value="dryerBookable" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1040" width="110" height="80" as="geometry" />
+          <mxGeometry x="788" y="340" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-9" value="restrictions" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1040" width="110" height="80" as="geometry" />
+          <mxGeometry x="908" y="340" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="180" y="780" width="120" height="380" as="geometry" />
+          <mxGeometry x="178" y="80" width="120" height="380" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-11" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;Users&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Contains the users information such as the roomID, the first- and last- name and the email as well.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Used for user specific updates on name, room and his own private data.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;opacity=30;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="780" width="120" height="220" as="geometry" />
+          <mxGeometry x="178" y="80" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="305" y="780" width="355" height="380" as="geometry" />
+          <mxGeometry x="303" y="80" width="355" height="380" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-17" value="&lt;h1&gt;First Comes First Served&lt;/h1&gt;&lt;p style=&quot;text-align: left;&quot;&gt;This composition is used to block washers and dryers specifically for users spontaneously.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;For this setup we need some kind of blocker to tell other users the machine is beeing used.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;So we update washer data, containing the occupiedBy attribute to display this machine is used and also creating a blocker element we check before people can book it. This structure makes it possible to reserve machines live and also give people information wether the devices are free or not.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;opacity=30;align=center;" vertex="1" parent="1">
-          <mxGeometry x="305" y="780" width="355" height="220" as="geometry" />
+          <mxGeometry x="303" y="80" width="355" height="220" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="670" y="780" width="355" height="380" as="geometry" />
+          <mxGeometry x="668" y="80" width="355" height="380" as="geometry" />
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-19" value="&lt;h1&gt;Booking Machines ahead&lt;/h1&gt;&lt;p style=&quot;text-align: left;&quot;&gt;This composition is used to book washers and dryers specifically for users for the next days ahead.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;For this setup we need some kind of restriction to tell the user himself that he has booked a machine already and is on cooldown till his restriction gets deleted.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;We basically then create dynamic entrys inside the dryer and washer db which can be created with a dbEntry Pattern consisting of the wished slot and the wished date. With this combi we can ensure a unique db id and create bookings dynamically.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;opacity=30;align=center;" vertex="1" parent="1">
-          <mxGeometry x="667.5" y="780" width="355" height="220" as="geometry" />
+          <mxGeometry x="665.5" y="80" width="355" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-20" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;users&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;uderId: ID&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;userEmail: String&lt;br&gt;firstName : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;lastName : String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;roomId: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="140.5" y="490" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-21" value="" style="shape=component;jettyWidth=8;jettyHeight=4;opacity=30;" vertex="1" parent="r8EusleEMPzekrwfMVhx-20">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-24" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;washers&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;washerId: ID&lt;br&gt;occupiedBy: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;status: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;washerName: String&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="263" y="490" width="122.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-25" value="" style="shape=component;jettyWidth=8;jettyHeight=4;opacity=30;" vertex="1" parent="r8EusleEMPzekrwfMVhx-24">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-26" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;dryers&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;dryerId: ID&lt;br&gt;occupiedBy: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;status: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;dryerName: String&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="395.5" y="490" width="122.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-27" value="" style="shape=component;jettyWidth=8;jettyHeight=4;opacity=30;" vertex="1" parent="r8EusleEMPzekrwfMVhx-26">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-28" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;blockers&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;washerNumber: ID&lt;br&gt;blocked: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;blockedBy: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="525.5" y="490" width="122.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-29" value="" style="shape=component;jettyWidth=8;jettyHeight=4;opacity=30;" vertex="1" parent="r8EusleEMPzekrwfMVhx-28">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-30" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;washerBookable&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;dbEntryPattern: ID&lt;br&gt;bookedBy: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;day: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;deviceName: String&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;slot: String&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;timeRange: String&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="655.5" y="490" width="122.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-31" value="" style="shape=component;jettyWidth=8;jettyHeight=4;opacity=30;" vertex="1" parent="r8EusleEMPzekrwfMVhx-30">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-32" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;dryerBookable&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;dbEntryPattern: ID&lt;br&gt;bookedBy: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;day: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;deviceName: String&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;slot: String&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;timeRange: String&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="785.5" y="490" width="122.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-33" value="" style="shape=component;jettyWidth=8;jettyHeight=4;opacity=30;" vertex="1" parent="r8EusleEMPzekrwfMVhx-32">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-34" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;restrictions&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;userEmail: ID&lt;br&gt;restrictedAt: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;restrictedUser: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;restriction: String&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="915.5" y="490" width="122.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-35" value="" style="shape=component;jettyWidth=8;jettyHeight=4;opacity=30;" vertex="1" parent="r8EusleEMPzekrwfMVhx-34">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
