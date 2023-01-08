@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T13:48:33.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="Smf6Eq3eD1u0QmZmnBFf" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T13:50:27.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="ktp0zf_4BRGuwGe4uqul" version="20.7.4" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="2493" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
           <mxGeometry x="120" y="122" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-23" value="WasherStatus Page" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-270" y="440" width="170" height="110" as="geometry" />
+          <mxGeometry x="-270" y="440" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-24" value="FirebaseAuth" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-240" y="480" width="110" height="50" as="geometry" />
@@ -235,6 +235,22 @@
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-67" value="Retrieve Live Data from the Dryers" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="300" y="800" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-69" value="Firestore Stream&lt;br&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="540" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-70" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#008a00;strokeColor=#005700;entryX=0.002;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Q51dEumf5WNtY2Y9RzkK-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-39.51" y="610" as="sourcePoint" />
+            <mxPoint x="870" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-39.51" y="610" />
+              <mxPoint x="-40" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-72" value="Block a Dryer and change Stats" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="300" y="850" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
