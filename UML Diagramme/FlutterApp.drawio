@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T13:54:42.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="SG5y3KUnWewK2Ffxetec" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T13:57:43.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="ogXebbECI2g7zAuIRYhD" version="20.7.4" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="2493" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="-240" y="480" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-25" value="DryerStatusPage" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-70" y="440" width="170" height="180" as="geometry" />
+          <mxGeometry x="-70" y="440" width="170" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-26" value="FirebaseAuth" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-40" y="480" width="110" height="50" as="geometry" />
@@ -161,6 +161,45 @@
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-81" value="Firestore Stream&lt;br&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-240" y="540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-83" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=1;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="680" as="sourcePoint" />
+            <mxPoint x="-200" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-84" value="Navigation" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="640" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-85" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=1;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="740" as="sourcePoint" />
+            <mxPoint x="10" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-86" value="Navigation" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="700" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-91" value="BookAwasher Page" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-280" y="680" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-92" value="FirebaseAuth" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="720" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-93" value="Firestore Stream&lt;br&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="780" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-94" value="BookADryer Page" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-70" y="740" width="170" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-95" value="FirebaseAuth" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="780" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-96" value="Firestore Stream&lt;br&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="840" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-97" value="Firestore CRUD" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="606" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
