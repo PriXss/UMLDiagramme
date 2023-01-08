@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T12:54:30.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="iJZ-iMwa9ntDxNO5-YFE" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T12:59:24.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="8YYGzVu6wQxTBL-8-3KF" version="20.7.4" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="2493" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -31,10 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-7" value="Firebase" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="860" y="120" width="140" height="770" as="geometry" />
-        </mxCell>
-        <mxCell id="Q51dEumf5WNtY2Y9RzkK-8" value="FireStore" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="870" y="480" width="110" height="400" as="geometry" />
+          <mxGeometry x="860" y="120" width="140" height="860" as="geometry" />
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-9" value="Authentication" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="870" y="170" width="110" height="290" as="geometry" />
@@ -92,7 +89,7 @@
           <mxGeometry x="-40" y="480" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-27" value="Profile Page" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="130" y="440" width="170" height="110" as="geometry" />
+          <mxGeometry x="130" y="440" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-28" value="FirebaseAuth" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="110" height="50" as="geometry" />
@@ -153,8 +150,8 @@
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-40" value="Navigation" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Q51dEumf5WNtY2Y9RzkK-41" value="Firestore Stream" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="540" width="110" height="50" as="geometry" />
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-41" value="Firestore Stream&lt;br&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Q51dEumf5WNtY2Y9RzkK-43" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" target="Q51dEumf5WNtY2Y9RzkK-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -179,6 +176,24 @@
             <mxPoint x="470" y="492" as="sourcePoint" />
             <mxPoint x="520" y="442" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-48" value="users" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="870" y="470" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-49" value="washers" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="870" y="550" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-51" value="dryers" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="870" y="630" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-52" value="restrictions" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="870" y="710" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-53" value="bookableWashers" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="870" y="790" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q51dEumf5WNtY2Y9RzkK-54" value="bookableDryers" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="870" y="870" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
