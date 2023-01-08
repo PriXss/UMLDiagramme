@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T16:04:47.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="lq3lm_ycsj6b7a54hDbg" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T16:12:35.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="O0PsPT10cUJnCTtl3W-D" version="20.7.4" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="r8EusleEMPzekrwfMVhx-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="670" y="780" width="355" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="r8EusleEMPzekrwfMVhx-19" value="&lt;h1&gt;Booking Machines ahead&lt;/h1&gt;&lt;p style=&quot;text-align: left;&quot;&gt;This composition is used to book washers and dryers specifically for users for the next days ahead.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;For this setup we need some kind of restriction to tell the user himself that he has booked a machine already and is on cooldown till his restriction gets deleted.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;So we update washer data, containing the occupiedBy attribute to display this machine is used and also creating a blocker element we check before people can book it. This structure makes it possible to reserve machines live and also give people information wether the devices are free or not.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;opacity=30;align=center;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="780" width="355" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
