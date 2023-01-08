@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T15:40:57.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="afRPFi42qkoAZmogpI4J" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T15:43:43.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="TxeXAr32o6POsJbgbGtx" version="20.7.4" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="2311" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2566" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MP8hHyfN-fz9ES6eljaN-1" value="WasherStatus Page" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="310" width="170" height="340" as="geometry" />
+          <mxGeometry x="-1020" y="310" width="170" height="260" as="geometry" />
         </mxCell>
         <mxCell id="MP8hHyfN-fz9ES6eljaN-2" value="FirebaseAuth" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-990" y="350" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MP8hHyfN-fz9ES6eljaN-3" value="Firestore Stream&lt;br&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="440" width="110" height="90" as="geometry" />
+          <mxGeometry x="-990" y="440" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MP8hHyfN-fz9ES6eljaN-4" value="Firestore CRUD" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="570" width="110" height="60" as="geometry" />
+          <mxGeometry x="-990" y="512.5" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="MP8hHyfN-fz9ES6eljaN-5" value="Firebase" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="310" width="170" height="360" as="geometry" />
+          <mxGeometry x="-230" y="310" width="170" height="260" as="geometry" />
         </mxCell>
         <mxCell id="MP8hHyfN-fz9ES6eljaN-6" value="Authentication" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-220" y="350" width="140" height="70" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-770" y="170" width="440" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MP8hHyfN-fz9ES6eljaN-8" value="Firestore Database" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="425" width="140" height="235" as="geometry" />
+          <mxGeometry x="-220" y="425" width="140" height="135" as="geometry" />
         </mxCell>
         <mxCell id="MP8hHyfN-fz9ES6eljaN-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.188;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MP8hHyfN-fz9ES6eljaN-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,14 +46,26 @@
         <mxCell id="MP8hHyfN-fz9ES6eljaN-13" value="&lt;span style=&quot;&quot;&gt;Also communicating when a session has to end (with the Logout functionality)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-850" y="380" width="620" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MP8hHyfN-fz9ES6eljaN-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.192;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="MP8hHyfN-fz9ES6eljaN-8">
+        <mxCell id="MP8hHyfN-fz9ES6eljaN-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-880" y="470.36" as="sourcePoint" />
-            <mxPoint x="-223.22000000000025" y="469.9999999999999" as="targetPoint" />
+            <mxPoint x="-220" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-220" y="470" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MP8hHyfN-fz9ES6eljaN-15" value="&lt;span style=&quot;&quot;&gt;Fetching Live Data from the referenced Database&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-850" y="440" width="620" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MP8hHyfN-fz9ES6eljaN-17" value="&lt;span style=&quot;&quot;&gt;Creating Entrys, Blockers, Restrictions, Updates on Entrys, Deleting Blockers, Restrictions, Entrys...&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="512.5" width="620" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MP8hHyfN-fz9ES6eljaN-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.192;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-879.72" y="542.3100000000002" as="sourcePoint" />
+            <mxPoint x="-220.0000000000002" y="542.0699999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
