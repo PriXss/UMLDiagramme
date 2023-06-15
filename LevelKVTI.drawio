@@ -1,110 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T07:42:37.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="EtSpcepYVQ1aDlywlhVt" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T08:42:54.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="mVe9dkRr6wZRWRETRoQE" version="21.3.8" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="1990" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1161" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#AE4132;" parent="1" vertex="1">
-          <mxGeometry x="360" y="50" width="10" height="1390" as="geometry" />
+          <mxGeometry x="360" y="50" width="10" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="60" width="240" height="110" as="geometry" />
+          <mxGeometry x="120" y="60" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-8" value="Levelaufstieg bei 25 erreichten Punkten" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="180" width="240" height="30" as="geometry" />
+          <mxGeometry x="245" y="160" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-1" value="&lt;h1&gt;Level 1 - Habits&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 5 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 3 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="135" y="60" width="200" height="110" as="geometry" />
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-1" value="&lt;h1&gt;Level 1 - Habits&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;5 Pkt. |&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UVE: &lt;/span&gt;&lt;font style=&quot;background-color: initial; font-size: 20px;&quot;&gt;3 Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="220" width="240" height="110" as="geometry" />
+          <mxGeometry x="120" y="200" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-3" value="&lt;h1&gt;Level 2 - Tagebuch&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 15 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 8 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="220" width="230" height="110" as="geometry" />
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-3" value="&lt;h1&gt;Level 2 - Tagebuch&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp; 15 Pkt. |&amp;nbsp;&lt;/font&gt;UVE: 8&lt;font style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&amp;nbsp;Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="220" width="260" height="110" as="geometry" />
+          <mxGeometry x="370" y="200" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-5" value="&lt;h1&gt;Habits weiterführen&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 5 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 3 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="220" width="240" height="110" as="geometry" />
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-5" value="&lt;h1&gt;Habits weiterführen&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp;&amp;nbsp;5 Pkt. |&amp;nbsp;&lt;/font&gt;UVE:&amp;nbsp;&lt;font style=&quot;font-size: 20px; background-color: initial;&quot;&gt;3 Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-6" value="Levelaufstieg bei 115 erreichten Punkten" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="460" width="240" height="30" as="geometry" />
+          <mxGeometry x="240" y="400" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="60" width="210" height="110" as="geometry" />
+          <mxGeometry x="370" y="60" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-8" value="&lt;h1&gt;Tägliche Logins&lt;/h1&gt;&lt;p&gt;Loginstreak &amp;gt; 1:&amp;nbsp; 1 Pkt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Loginstreak &amp;lt; 1: 0 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="60" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="340" width="210" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-11" value="&lt;h1&gt;Tägliche Logins&lt;/h1&gt;&lt;p&gt;Loginstreak &amp;gt; 1:&amp;nbsp; 1 Pkt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Loginstreak &amp;lt; 1: 0 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="340" width="200" height="110" as="geometry" />
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-8" value="&lt;h1&gt;Tägliche Logins&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;LS &amp;gt;= 2 :&amp;nbsp; 1 Pkt.&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="510" width="250" height="110" as="geometry" />
+          <mxGeometry x="110" y="440" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-13" value="&lt;h1&gt;Level 3 - Restriktion&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 45 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 25 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="510" width="240" height="110" as="geometry" />
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-13" value="&lt;h1&gt;Level 3 - Restriktion&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp; 45 Pkt. |&amp;nbsp;&lt;/font&gt;UVE: 25&lt;font style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&amp;nbsp;Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="510" width="260" height="110" as="geometry" />
+          <mxGeometry x="370" y="440" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-15" value="&lt;h1&gt;Habits weiterführen&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 5 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 3 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="510" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="750" width="210" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-17" value="&lt;h1&gt;Tägliche Logins&lt;/h1&gt;&lt;p&gt;Loginstreak &amp;gt; 1:&amp;nbsp; 1 Pkt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Loginstreak &amp;lt; 1: 0 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="750" width="200" height="110" as="geometry" />
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-15" value="&lt;h1&gt;Habits weiterführen&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp;&amp;nbsp;5 Pkt. |&amp;nbsp;&lt;/font&gt;UVE:&amp;nbsp;&lt;font style=&quot;font-size: 20px; background-color: initial;&quot;&gt;3 Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-20" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="630" width="290" height="110" as="geometry" />
+          <mxGeometry x="370" y="540" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-21" value="&lt;h1&gt;Tagebuch weiterführen&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 15 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 8 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="630" width="280" height="110" as="geometry" />
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-21" value="&lt;h1&gt;Tagebuch weiterführen&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp; 15 Pkt. |&amp;nbsp;&lt;/font&gt;UVE: 8&lt;font style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&amp;nbsp;Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-22" value="Levelaufstieg bei 450 erreichten Punkten" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="870" width="240" height="30" as="geometry" />
+          <mxGeometry x="245" y="740" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1270" width="300" height="110" as="geometry" />
+          <mxGeometry x="370" y="1080" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-24" value="&lt;h1&gt;Restriktion weiterführen&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 5 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 0 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1270" width="290" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="910" width="260" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-26" value="&lt;h1&gt;Habits weiterführen&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 5 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 0 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="910" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-27" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1150" width="210" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-28" value="&lt;h1&gt;Tägliche Logins&lt;/h1&gt;&lt;p&gt;Loginstreak &amp;gt; 1:&amp;nbsp; 5 Pkt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Loginstreak &amp;lt; 1: 0 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1150" width="200" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1030" width="290" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-30" value="&lt;h1&gt;Tagebuch weiterführen&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 5 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 0 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1030" width="280" height="110" as="geometry" />
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-24" value="&lt;h1&gt;Restriktion weiterführen&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp; 5 Pkt. |&amp;nbsp;&lt;/font&gt;UVE: 1&lt;font style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&amp;nbsp;Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1080" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-31" value="Therapie Ende bei 650 erreichten Punkten&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;strokeWidth=1;fillColor=#60a917;fontSize=13;align=center;gradientDirection=east;verticalAlign=top;shadow=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1400" width="320" height="30" as="geometry" />
+          <mxGeometry x="205" y="1180" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-32" value="Therapie Start" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;strokeWidth=1;fillColor=#60a917;fontSize=13;align=center;gradientDirection=east;verticalAlign=top;shadow=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="305" y="20" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3K1gR1fu3CzCHkdOwu1r-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="910" width="340" height="110" as="geometry" />
+          <mxGeometry x="20" y="780" width="340" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3K1gR1fu3CzCHkdOwu1r-36" value="&lt;h1&gt;Level 4 - Rückfallprävention&lt;/h1&gt;&lt;p&gt;Vollständige Einhaltung:&amp;nbsp; 45 Pkt.&lt;/p&gt;&lt;p&gt;Unvollständige Einhaltung: 25 Pkt.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="910" width="330" height="110" as="geometry" />
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-36" value="&lt;h1&gt;Level 4 - Rückfallprävention&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp; 45 Pkt. |&amp;nbsp;&lt;/font&gt;UVE: 10&lt;font style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&amp;nbsp;Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="780" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-39" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-40" value="&lt;h1&gt;Tägliche Logins&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;LS &amp;gt;= 2 :&amp;nbsp; 1 Pkt.&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-41" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="640" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-42" value="&lt;h1&gt;Tägliche Logins&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;LS &amp;gt;= 2 :&amp;nbsp; 1 Pkt.&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="640" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-43" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="980" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-44" value="&lt;h1&gt;Tägliche Logins&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;LS &amp;gt;= 2 :&amp;nbsp; 5 Pkt.&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="980" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-45" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="780" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-46" value="&lt;h1&gt;Habits weiterführen&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp;&amp;nbsp;5 Pkt. |&amp;nbsp;&lt;/font&gt;UVE: 1&lt;font style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&amp;nbsp;Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="780" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-47" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;strokeWidth=1;fillColor=#647687;fontSize=13;fontColor=#ffffff;align=center;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="880" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3K1gR1fu3CzCHkdOwu1r-48" value="&lt;h1&gt;Tagebuch weiterführen&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;VE:&amp;nbsp; 5 Pkt. |&amp;nbsp;&lt;/font&gt;UVE: 1&lt;font style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&amp;nbsp;Pkt&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="880" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
