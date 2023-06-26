@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T09:31:35.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bkYn4BdEHxMeKSJAXbq8" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T09:33:19.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Syap0xa9dbrkwQstUXgv" version="21.5.0" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="3816" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4345" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="VKlWMBAx0alxDQAKVOis-686" value="&lt;font style=&quot;font-size: 49px;&quot;&gt;Prävention&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=250;fillColor=#F19001;gradientColor=#C23603;gradientDirection=east;swimlaneFillColor=none;strokeWidth=3;height=110;" vertex="1" parent="1">
           <mxGeometry x="-620" y="1460" width="1000" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="VKlWMBAx0alxDQAKVOis-688" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=125.17;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#a20025;whiteSpace=wrap;rotation=90;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="735" width="1510" height="97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
